@@ -32,7 +32,6 @@ You can find one of my projects at the [link](https://github.com/Yelizaveta-Smal
 ### Work Experience
 
 - **Data Analyst (DEVXED)** *12.2022 - Present*
-
     - Processing and preparation of data
     - Research and preparation of reports
     - Preparation and description of business tasks
