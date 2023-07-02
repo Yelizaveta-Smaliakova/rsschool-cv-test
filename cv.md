@@ -40,19 +40,17 @@ You can find one of my projects at the [link](https://github.com/Yelizaveta-Smal
     - Prepare high school students to Young Physicist Tournaments
     - Organise participation of Belarusian team in international Young Physicist Tournaments
 
-
 - **Trainee Junior Researcher (Belarusian State University)** *04.2022 - 10.2022*
     - Developed the Single Nucleotide Polymorphisms calling algorithms based on genome sequencing data
 
 - **Physics Teacher (Lyceum of Belarusian State University)** *09.2021 - 05.2022*
     - Prepared 9th grade students for the lyceum entrance examination in physics
+
 ---
 ### Education
-**May 30, 2015** - Has successfully graduated from musical school
-
-**June 8, 2019** - Has graduated from Belarusian State University Lyceum
-
-**June 30, 2023** - Has successfully graduated from Belarusian State University
+- **May 30, 2015** - Has successfully graduated from musical school
+- **June 8, 2019** - Has graduated from Belarusian State University Lyceum
+- **June 30, 2023** - Has successfully graduated from Belarusian State University
 
 ---
 ### Languages
